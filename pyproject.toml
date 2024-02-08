@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "malay-tts-web"
+name = "malay-stt-web"
 version = "0.1.0"
 description = ""
 authors = ["Amirul Abu <amirulabu@gmail.com>"]

@@ -4,7 +4,7 @@ from secrets import token_urlsafe
 from markupsafe import escape
 from werkzeug.utils import secure_filename
 from html_template import default_html
-from malay_tts_web.speech.speech import speech_to_text
+from malay_stt_web.speech.speech import speech_to_text
 from utils import allowed_file
 
 UPLOAD_FOLDER = "/home/mirul/workspace/malay_tts_web/uploads"
